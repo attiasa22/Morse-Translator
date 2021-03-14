@@ -40,7 +40,7 @@ Connect the Analog Discovery 2 (AD2) to the Basys3 with the following connection
 Connect the PMOD Test Pin Header (PTPH) to the top row of PMOD JA pins. Make sure that the GND and VCC pins are properly
 aligned.
 
-Connect DIO 0 to the PTPH poort P1, which should be aligned with PMOD JA1.
+Connect DIO 0 to the PTPH port P1, which should be aligned with PMOD JA1.
 
 If you would like to read the output of the Morse code signal using the Logic Analyzer, connect DIO 1 to the PTPH port P2, which should be connected to PMOD JA2. Connect a ground wire (black) to GND.
 
