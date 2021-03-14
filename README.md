@@ -1,5 +1,5 @@
 # Morse-Translator
-VHDL project which converts a UART ASCII input into Morse Code output (LED and sound). Coded for a XILINX Basses 3 in COSC 56 at Dartmouth College with Joseph Notis
+VHDL project which converts a UART ASCII input into Morse Code output (LED and sound). Coded for a XILINX Basys 3 Artix-7 in COSC 56 at Dartmouth College with Joseph Notis
 
 # Introduction
 
